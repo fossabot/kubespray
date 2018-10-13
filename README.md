@@ -1,4 +1,5 @@
 ![Kubernetes Logo](https://raw.githubusercontent.com/kubernetes-incubator/kubespray/master/docs/img/kubernetes-logo.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fameukam%2Fkubespray.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fameukam%2Fkubespray?ref=badge_shield)
 
 Deploy a Production Ready Kubernetes Cluster
 ============================================
@@ -187,3 +188,7 @@ CI Tests
 
 CI/end-to-end tests sponsored by Google (GCE)
 See the [test matrix](docs/test_cases.md) for details.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fameukam%2Fkubespray.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fameukam%2Fkubespray?ref=badge_large)
